@@ -1,0 +1,11 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»½‡¶ûÿÿÿÿ8‡ı¹Şü1
+}
+java:S1450	"[Remove the "numeroCartao" field and declare it as a local variable in the relevant methods.(øçøƒşÿÿÿÿ8ı¹Şü1
+L	java:S106"+Replace this use of System.out by a logger.(ïñ•şÿÿÿÿ8’ı¹Şü1
+L	java:S106"+Replace this use of System.out by a logger.(‚Úãóúÿÿÿÿ8’ı¹Şü1
+;
+java:S2119"Save and re-use this "Random".(šáÊ8”ı¹Şü1
+L	java:S106"+Replace this use of System.out by a logger.(›¤Œâşÿÿÿÿ8”ı¹Şü1
+G	java:S106"+Replace this use of System.out by a logger.(‚£8•ı¹Şü1
+G	java:S106%"+Replace this use of System.out by a logger.(«§ 8•ı¹Şü1

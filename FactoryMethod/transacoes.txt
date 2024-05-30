@@ -1,0 +1,7 @@
+Método: Cartão de Crédito, Quantia: 100.0, ID: CC-1717111908234, Status: Cancelado
+Método: Cartão de Crédito, Quantia: 100.0, ID: CC-1717111908234, Status: Cancelado
+Método: PayPal, Quantia: 200.0, ID: PP-1717111908262, Status: Aprovado
+Método: Criptomoeda, Quantia: 300.0, ID: CR-1717111908275, Status: Confirmado
+Método: Cartão de Crédito, Quantia: 100.0, ID: CC-1717112015189, Status: Aprovado
+Método: PayPal, Quantia: 200.0, ID: PP-1717112015210, Status: Cancelado
+Método: Criptomoeda, Quantia: 300.0, ID: CR-1717112015217, Status: Cancelado

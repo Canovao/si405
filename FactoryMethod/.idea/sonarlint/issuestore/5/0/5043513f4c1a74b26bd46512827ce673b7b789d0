@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»½‡¶ûÿÿÿÿ
+w
+java:S1450	"ZRemove the "contaPayPal" field and declare it as a local variable in the relevant methods.(’·œ²8­‘—Þü1
+L	java:S106"+Replace this use of System.out by a logger.(¶ö„›þÿÿÿÿ8°‘—Þü1
+G	java:S106"+Replace this use of System.out by a logger.(“³¤è8°‘—Þü1
+G	java:S106"+Replace this use of System.out by a logger.(¼¯Ó»8²‘—Þü1
+G	java:S106"+Replace this use of System.out by a logger.(ùŽ¾Î8²‘—Þü1
+L	java:S106%"+Replace this use of System.out by a logger.(¸›Îžùÿÿÿÿ8³‘—Þü1
+:
+java:S2119*"Save and re-use this "Random".(‹‘¹q8¶‘—Þü1

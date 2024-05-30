@@ -1,0 +1,12 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»½‡¶ûÿÿÿÿ
+{
+java:S1450
+"_Remove the "enderecoCarteira" field and declare it as a local variable in the relevant methods.(Â‘ÔG8Š˜Şü1
+G	java:S106"+Replace this use of System.out by a logger.(—ÆåÑ8Š˜Şü1
+F	java:S106"+Replace this use of System.out by a logger.(„ˆ‹Y8Š˜Şü1
+G	java:S106"+Replace this use of System.out by a logger.(Üİ°ì8’Š˜Şü1
+L	java:S106"+Replace this use of System.out by a logger.(ä÷Ö úÿÿÿÿ8“Š˜Şü1
+L	java:S106&"+Replace this use of System.out by a logger.(¯ÖÔäÿÿÿÿÿ8”Š˜Şü1
+:
+java:S2119+"Save and re-use this "Random".(‹‘¹q8–Š˜Şü1
